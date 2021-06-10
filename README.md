@@ -12,7 +12,7 @@ I'm currently pursuing my B.Tech in Mechanical Engineering from NIT Agartala.
 
 
 <!-- GitHub Stats -->
-<h2 align="center">My Github Statistics 🔥</h2>   
+<h2 align="center">My Github Statistics: </h2>   
   
 <p align="center">
 <img src=https://github-readme-stats.vercel.app/api?username=souvikpaul6436&&show_icons=true&title_color=ffba2c&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 />
@@ -21,7 +21,7 @@ I'm currently pursuing my B.Tech in Mechanical Engineering from NIT Agartala.
 <br />
 
 <!-- GitHub Stats -->
-<h2 align="center">My contribution Streak 🔥</h2>
+<h2 align="center">My contribution Streak: </h2>
 
 <p align="center">
 <img src=https://github-readme-streak-stats.herokuapp.com/?user=souvikpaul6436&theme=dark&hide_border=true&background=0D1117&stroke=0000%22/>
