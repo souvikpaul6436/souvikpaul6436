@@ -7,7 +7,7 @@ I'm currently pursuing my B.Tech in Mechanical Engineering from NIT Agartala.
 - 🔭 I'm interested to Contribute in Open Source Project,Hackathons.
 - 🌱 I’m currently learning DS Algo,Full Stack Web Development.
 - 👯 I’m looking to collaborate on Open Source Projects which can enhance my skills.
-- 📫 How to reach me: [LikedIn](https://www.linkedin.com/in/souvik-paul-127153/),[Gmail](souvikpaul6436@gmail.com/)..
+- 📫 How to reach me: [LikedIn](https://www.linkedin.com/in/souvik-paul-127153ba/),[Gmail](souvikpaul6436@gmail.com/).
 - 😄 Pronouns: He/Him 
 
 
