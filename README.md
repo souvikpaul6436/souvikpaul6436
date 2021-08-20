@@ -47,6 +47,8 @@ I'm currently pursuing my B.Tech in Mechanical Engineering from NIT Agartala.
 <a href="https://instagram.com/__souvik_paul__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__souvik_paul__" height="30" width="40" /></a>
 </p>
 
+<br />
+
 ## Languages I know:
 
 <img align = "left" src="https://img.icons8.com/color/100/000000/c-programming.png" alt="C" width="50px" />
@@ -61,20 +63,18 @@ I'm currently pursuing my B.Tech in Mechanical Engineering from NIT Agartala.
 
 <img src="https://kotlinlang.org/assets/images/open-graph/kotlin_250x250.png" alt="Kotlin" width="50" height="50" />
 
+<br />
+
 ## Tools I use:
-
-<img align="left" alt="Visual Studio Code" width="50px"  height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
+<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align = "left" width="50px" src="https://img.icons8.com/fluent/96/000000/sublime-text.png"/>
-
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
 <img align="left" src="https://img.icons8.com/color/50/000000/gitlab.png" alt = "GitLab"/>
 
+<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Visual Studio Code" width="40px"  height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt = "Android Studio" width="50" height="50" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" />
 
-## Operating System I Use:
 
-<img  src="https://img.icons8.com/fluent/48/000000/windows-10.png" alt = "Windows 10"/>
+<br />
+
+
