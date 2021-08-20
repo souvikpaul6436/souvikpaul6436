@@ -3,6 +3,8 @@
 
 I'm currently pursuing my B.Tech in Mechanical Engineering from NIT Agartala.
 
+<br />
+
 ## I'm a C/C++ programmer💻, Developer👨‍💻!!
 - 🔭 I'm interested to Contribute in Open Source Project,Hackathons.
 - 🌱 I’m currently learning DS Algo,Full Stack Web Development.
@@ -27,12 +29,23 @@ I'm currently pursuing my B.Tech in Mechanical Engineering from NIT Agartala.
 <img src=https://github-readme-streak-stats.herokuapp.com/?user=souvikpaul6436&theme=dark&hide_border=true&background=0D1117&stroke=0000%22/>
 </p>  
 
+<br />
+
  <p align="center">
   <img  width="400px" height="280px" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
 </p>
 
 <br />
 
+## Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@souvikp47663821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@souvikp47663821" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/souvik-paul-1271531ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/souvik-paul-1271531ba" height="30" width="40" /></a>
+<a href="https://fb.com/souvikpaul6436" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="souvikpaul6436" height="30" width="40" /></a>
+<a href="https://instagram.com/__souvik_paul__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__souvik_paul__" height="30" width="40" /></a>
+<a href="https://medium.com/souvikpaul6436@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="souvikpaul6436@" height="30" width="40" /></a>
+<a href="https://discord.gg/Souvik Paul#9407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Souvik Paul#9407" height="30" width="40" /></a>
+</p>
 
 ## Languages I know:
 
