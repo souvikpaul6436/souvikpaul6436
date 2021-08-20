@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=souvikpaul6436&label=Profile%20views&color=0e75b6&style=flat" alt="souvikpaul6436" /> </p>
+
 ### Hi there 👋
 ### I'm Souvik Paul , Welcome to my GitHub Profile!
 
