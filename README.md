@@ -1,14 +1,19 @@
-<img align="right" alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvikpaul6436&label=Profile%20views&color=0e75b6&style=flat" alt="souvikpaul6436" /> </p>
 
 ### Hi there 👋
+<img align="right" alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
+<br />
+<br />
 
 ### I'm Souvik Paul , Welcome to my GitHub Profile!
 
 I'm currently pursuing my B.Tech in Mechanical Engineering from NIT Agartala.
 
+
 <br />
+
 
 ## I'm a C/C++ programmer💻, Developer👨‍💻!!
 - 🔭 I'm interested to Contribute in Open Source Project,Hackathons.
@@ -17,6 +22,7 @@ I'm currently pursuing my B.Tech in Mechanical Engineering from NIT Agartala.
 - 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/souvik-paul-1271531ba/),[Gmail](mailto:souvikpaul6436@gmail.com).
 - 😄 Pronouns: He/Him 
 
+<br />
 
 <!-- GitHub Stats -->
 <h2 align="center">My Github Statistics: </h2>   
@@ -90,3 +96,8 @@ I'm currently pursuing my B.Tech in Mechanical Engineering from NIT Agartala.
 <h2 align="center">Visitors Count: </h2>    
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{souvikpaul6436}/count.svg" /></p> 
 <!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 -->
+
+<p align="center">
+<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
+</p>
+<hr>
