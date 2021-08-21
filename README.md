@@ -94,6 +94,7 @@ I'm currently pursuing my B.Tech in Mechanical Engineering from NIT Agartala.
 <h2 align="center">Visitors Count: </h2>    
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{souvikpaul6436}/count.svg" /></p> 
 <!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 -->
+<br />
 
 <p align="center">
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
