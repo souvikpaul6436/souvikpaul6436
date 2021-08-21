@@ -77,4 +77,6 @@ I'm currently pursuing my B.Tech in Mechanical Engineering from NIT Agartala.
 
 <br />
 
-
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{souvikpaul6436}/count.svg" /></p> 
+<!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 -->
