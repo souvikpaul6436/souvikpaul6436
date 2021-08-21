@@ -90,6 +90,10 @@ I'm currently pursuing my B.Tech in Mechanical Engineering from NIT Agartala.
 
 <br />
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+<br />
+
 <!-- Visitors Count -->
 <h2 align="center">Visitors Count: </h2>    
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{souvikpaul6436}/count.svg" /></p> 
