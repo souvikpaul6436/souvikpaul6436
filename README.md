@@ -5,7 +5,7 @@
 ### Hi there 👋
 <img align="right" alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 <br />
-<br />
+
 
 ### I'm Souvik Paul , Welcome to my GitHub Profile!
 
