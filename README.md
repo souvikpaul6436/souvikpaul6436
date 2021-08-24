@@ -108,7 +108,7 @@ I'm currently pursuing my B.Tech in Mechanical Engineering from NIT Agartala.
 
   
  <!-- Ending -->
-<h2 align="center">Show some ❤️ by starring some of the repositories! </h2 
+<h2 align="center">Show some ❤️ by starring my repositories! </h2 
 
   
 
