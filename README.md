@@ -104,3 +104,12 @@ I'm currently pursuing my B.Tech in Mechanical Engineering from NIT Agartala.
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 </p>
 <hr>
+
+
+  
+ <!-- Ending -->
+<h2 align="center">Show some ❤️ by starring some of the repositories! </h2 
+
+  
+
+
