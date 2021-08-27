@@ -7,7 +7,7 @@
 
 ### I'm Souvik Paul , Welcome to my GitHub Profile!
 
-I'm currently pursuing my B.Tech in Mechanical Engineering from NIT Agartala.
+I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agartala.
 
 
 <br />
