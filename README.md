@@ -68,11 +68,14 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agar
 
 <img align = "left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="48" height="50" />
 
-<img src="https://kotlinlang.org/assets/images/open-graph/kotlin_250x250.png" alt="Kotlin" width="50" height="50" />
+</p>
 
+<br />
+<br />
 <br />
 
 ## Tools I use:
+
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align = "left" width="50px" src="https://img.icons8.com/fluent/96/000000/sublime-text.png"/>
 <img align="left" src="https://img.icons8.com/color/50/000000/gitlab.png" alt = "GitLab"/>
