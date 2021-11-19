@@ -87,11 +87,6 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agar
 <img alt = "Android Studio" width="50" height="50" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" />
 
 
-<br />
-<!-- Visitors Count -->
-<h2 align="center"> Contribution Graph </h2>
-
-![](https://activity-graph.herokuapp.com/graph?username=souvikpaul6436&theme=react-dark&hide_border=true&area=true)
 
 <br />
 
