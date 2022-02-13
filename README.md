@@ -76,12 +76,7 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agar
 
 <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 
-
-
-
-
-
-</p>
+<img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 
 <br />
 <br />
