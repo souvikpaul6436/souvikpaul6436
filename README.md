@@ -41,9 +41,6 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agar
 </p>  
 
 <br />
-<br />
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=souvikpaul6436&show_icons=true&locale=en&layout=compact" alt="souvikpaul6436" /></p>
 
 <br />
  <p align="center">
