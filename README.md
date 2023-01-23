@@ -11,9 +11,7 @@
 I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agartala.
 
 
-<br />
-
-<img src="./sourav-home.jpg" />
+<br >
 
 
 ## I'm a C/C++ programmer💻, Developer👨‍💻!!
