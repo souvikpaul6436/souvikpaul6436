@@ -57,6 +57,7 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agar
 <a href="mailto:souvikpaul6436@gmail.com" target="_blank"><img alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 <a href="https://twitter.com/@souvikp47663821">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+<a href="https://instagram.com/__souvik_paul__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
 </p>
 
