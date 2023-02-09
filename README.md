@@ -90,7 +90,7 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agar
 <a href="https://nodejs.org" target="_blank"> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> </a>
 <a href="https://www.expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" /> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> </a>
-<a href="https://www.firebase.com/" target="_blank"> <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/> </a>
+
 </p>
 <br />
 
