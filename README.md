@@ -14,10 +14,10 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agar
 <br >
 
 
-## I'm a C/C++ programmer💻, Developer👨‍💻!!
-- 🔭 I'm interested to Contribute in Open Source Project,Hackathons.
+## I'm a Programmer💻, Web Developer👨‍💻!!
+- 👀 Looking for SDE Full Time Roles..
 - 🌱 I’m currently learning DS Algo,Full Stack Web Development.
-- 👯 I’m looking to collaborate on Open Source Projects which can enhance my skills.
+- 💞️ I"m ready to collaborate on Web Development Projects.
 - 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/souvik-paul-1271531ba/),[Gmail](mailto:souvikpaul6436@gmail.com).
 - 😄 Pronouns: He/Him 
 
@@ -49,35 +49,60 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agar
 
 <br />
 
-## Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@souvikp47663821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@souvikp47663821" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/souvik-paul-1271531ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/souvik-paul-1271531ba/" height="30" width="40" /></a>
-<a href="https://fb.com/souvikpaul6436" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="souvikpaul6436" height="30" width="40" /></a>
-<a href="https://instagram.com/__souvik_paul__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__souvik_paul__" height="30" width="40" /></a>
+## Connect with me:
+
+<p align="left"> 
+<a href="https://github.com/souvikpaul6436" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  
+<a href="https://www.linkedin.com/in/souvik-paul-1271531ba/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:souvikpaul6436@gmail.com" target="_blank"><img alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+<a href="https://twitter.com/@souvikp47663821">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+ 
 </p>
 
 <br />
 
 ## Languages I know:
 
-<img align = "left" src="https://img.icons8.com/color/100/000000/c-programming.png" alt="C" width="50px" />
-
-<img align="left" alt="C++" width="40px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
-
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align = "left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="48" height="50" />
-
-<img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-
-<img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> </a> 
+<a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-blue.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black" alt="c++" /></a>
+<a href="https://isocpp.org/" target="_blank"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
+</p> 
 
 <br />
+
+## Frontend Skills:
+
+<p align="left">
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a>
+<a href="https://redux.js.org" target="_blank"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" /> </a>
+<a href="https://mui.com/" target="_blank"> <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MaterialUI" /> </a>
+</p>
 <br />
+
+## Backend Skills:
+
+<p align="left">
+<a href="https://nodejs.org" target="_blank"> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> </a>
+<a href="https://www.expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" /> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> </a>
+<a href="https://www.firebase.com/" target="_blank"> <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/> </a>
+</p>
 <br />
+
+## Other Skills:
+
+<p align="left">
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
+<a href="https://heroku.com" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" /> </a>
+<a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/postman-E95723?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> </a>
+<a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="postman" /> </a>
+</p>
+
 
 
 
