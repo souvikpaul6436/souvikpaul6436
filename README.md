@@ -27,6 +27,7 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agar
 <h2 align="center">My Github Statistics: </h2>   
   
 <p align="center">
+  
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=souvikpaul6436&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
 </p>
@@ -37,7 +38,7 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agar
 <h2 align="center">My contribution Streak: </h2>
 
 <p align="center">
-<img src=https://github-readme-streak-stats.herokuapp.com/?user=souvikpaul6436&theme=dark&hide_border=true&background=0D1117&stroke=0000%22/>
+<img src=https://github-readme-streak-stats.herokuapp.com/?user=souvikpaul6436&theme=dark&hide_border=true&background=0D1117&stroke=0000%22/](https://github-readme-streak-stats.herokuapp.com/?user=souvikpaul6436&theme=gruvbox&hide_border=true)/>
 </p>  
 
 <br />
