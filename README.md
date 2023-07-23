@@ -19,7 +19,7 @@ I'm currently pursuing my BTech in Computer Science & Engineering from NIT Agart
 - 👀 Looking for SDE Full-Time Roles.
 - 🌱 I’m currently learning DS Algo, Full Stack Web Development.
 - 💞️ I"m ready to collaborate on Web Development Projects.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/souvik-paul-1271531ba/),[Gmail](mailto:souvikpaul6436@gmail.com).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/souvik-paul-1271531ba/) | [Gmail](mailto:souvikpaul6436@gmail.com).
 - 😄 Pronouns: He/Him 
 
 <br />
