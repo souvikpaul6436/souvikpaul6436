@@ -6,17 +6,17 @@
 <img align="right" alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvikpaul6436&label=Profile%20views&color=0e75b6&style=flat" alt="souvikpaul6436" /> </p>
 
-### I'm Souvik Paul , Welcome to my GitHub Profile!
+### I'm Souvik Paul, Welcome to my GitHub Profile!
 
-I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agartala.
+I'm currently pursuing my BTech in Computer Science & Engineering from NIT Agartala.
 
 
 <br >
 
 
 ## I'm a Programmer💻, Web Developer👨‍💻!!
-- 👀 Looking for SDE Full Time Roles..
-- 🌱 I’m currently learning DS Algo,Full Stack Web Development.
+- 👀 Looking for SDE Full-Time Roles.
+- 🌱 I’m currently learning DS Algo, Full Stack Web Development.
 - 💞️ I"m ready to collaborate on Web Development Projects.
 - 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/souvik-paul-1271531ba/),[Gmail](mailto:souvikpaul6436@gmail.com).
 - 😄 Pronouns: He/Him 
@@ -120,7 +120,9 @@ I'm currently pursuing my B.Tech in Computer Science & Engineering from NIT Agar
   
  <h2 align="center">Watch my contributions get eaten by a snake 🐍</h2>   
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/souvikpaul6436/souvikpaul6436/blob/output/github-contribution-grid-snake.gif)
+
+
 
 <br />
 
