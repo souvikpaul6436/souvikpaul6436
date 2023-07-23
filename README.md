@@ -7,9 +7,9 @@
 </h1>
   
 <p align="center"><img alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif"></p>
-<h1/>
+
   
-### I'm Souvik Paul, Welcome to my GitHub Profile!
+## I'm Souvik Paul, Welcome to my GitHub Profile!
 I'm currently pursuing my BTech in Computer Science & Engineering from NIT Agartala.
 
 
@@ -25,7 +25,7 @@ I'm currently pursuing my BTech in Computer Science & Engineering from NIT Agart
 <br />
 
 <!-- GitHub Stats -->
-<h2 align="center">My Github Statistics: </h2>   
+<h2 align="center"> ⚡My Github Statistics⚡ </h2>   
   
 <p align="center">
   
@@ -36,7 +36,7 @@ I'm currently pursuing my BTech in Computer Science & Engineering from NIT Agart
 <br />
 
 <!-- GitHub Stats -->
-<h2 align="center">My contribution Streak: </h2>
+<h2 align="center">⚡My contribution Streak ⚡ </h2>
 
 <p align="center">
 <img src=https://github-readme-streak-stats.herokuapp.com/?user=souvikpaul6436&theme=dark&hide_border=true&background=0D1117&stroke=0000%22/](https://github-readme-streak-stats.herokuapp.com/?user=souvikpaul6436&theme=gruvbox&hide_border=true)/>
@@ -63,7 +63,7 @@ I'm currently pursuing my BTech in Computer Science & Engineering from NIT Agart
  
 </p>
 
-<br />
+
 
 ## Languages I know:
 
@@ -74,7 +74,6 @@ I'm currently pursuing my BTech in Computer Science & Engineering from NIT Agart
 <a href="https://isocpp.org/" target="_blank"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
 </p> 
 
-<br />
 
 ## Frontend Skills:
 
@@ -87,7 +86,6 @@ I'm currently pursuing my BTech in Computer Science & Engineering from NIT Agart
 <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
-<br />
 
 ## Backend Skills:
 
@@ -98,7 +96,6 @@ I'm currently pursuing my BTech in Computer Science & Engineering from NIT Agart
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
-<br />
 
 ## Other Skills:
 
