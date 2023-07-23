@@ -1,7 +1,8 @@
-
-
-
-### Hi there 👋
+<h1 align="center">   
+  <a href="https://git.io/typing-svg"> 
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&color=43C9B1&background=8FFF7C00&width=435&lines=Hi+There!+👋;+Myself+Souvik+Paul!;&center=true&size=30">   
+  </a>
+</h1>
 
 <img align="right" alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvikpaul6436&label=Profile%20views&color=0e75b6&style=flat" alt="souvikpaul6436" /> </p>
