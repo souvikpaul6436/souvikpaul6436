@@ -9,7 +9,7 @@
 <p align="center"><img alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif"></p>
 
   
-## I'm Souvik Paul, Welcome to my GitHub Profile:) 
+## I'm Souvik Paul, Welcome to my GitHub Profile :) 
 I'm currently pursuing my BTech in Computer Science & Engineering from NIT Agartala.
 
 
