@@ -112,16 +112,6 @@ I'm currently pursuing my BTech in Computer Science & Engineering from NIT Agart
 
 
 
-
-<br />
-
-  
- <h2 align="center">Watch my contributions get eaten by a snake 🐍</h2>   
-
-![Snake animation](https://github.com/souvikpaul6436/souvikpaul6436/blob/output/github-contribution-grid-snake.gif)
-
-
-
 <br />
 
 <!-- Visitors Count -->
